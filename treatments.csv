@@ -1,0 +1,6 @@
+treatment_id,diagnosis_id,treatment_desc,treatment_start,treatment_end
+501,401,"Arrhythmia therapy",2024-11-01,2024-11-10
+502,402,"Migraine medication",2024-11-01,2024-11-05
+503,403,Physiotherapy,2024-11-02,2024-11-20
+504,404,"Cardiac observation",2024-11-04,2024-11-08
+505,405,"Neurological monitoring",2024-11-05,2024-11-12

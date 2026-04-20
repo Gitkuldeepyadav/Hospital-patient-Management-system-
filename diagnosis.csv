@@ -1,0 +1,6 @@
+diagnosis_id,appointment_id,diagnosis_desc
+401,301,"Heart arrhythmia"
+402,302,Migraine
+403,303,"Knee ligament damage"
+404,305,"Chest pain"
+405,306,"Seizure episode"

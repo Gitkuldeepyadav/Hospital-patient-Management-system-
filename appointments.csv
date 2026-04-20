@@ -1,0 +1,7 @@
+"appointment_id";"patient_id";"doctor_id";"appointment_date";"appointment_time";"status"
+301;201;101;"2024-11-01";"10:00:00";"Completed"
+302;202;102;"2024-11-01";"11:30:00";"Completed"
+303;203;103;"2024-11-02";"09:45:00";"Completed"
+304;201;104;"2024-11-03";"14:20:00";"Scheduled"
+305;204;101;"2024-11-04";"16:10:00";"Completed"
+306;205;102;"2024-11-05";"12:15:00";"Completed"

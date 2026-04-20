@@ -1,0 +1,6 @@
+bill_id,patient_id,treatment_id,total_amount,paid_amount,payment_status
+601,201,501,15000.00,15000.00,Paid
+602,202,502,5000.00,3000.00,Pending
+603,203,503,8000.00,8000.00,Paid
+604,204,504,12000.00,12000.00,Paid
+605,205,505,20000.00,15000.00,Pending
